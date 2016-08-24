@@ -110,3 +110,6 @@ fi
 echo "Installation is complete!"
 echo "Version details are as follows:"
 terraform --version
+
+echo "Please enter the Softlayer credentials for SLCLI Setup"
+slcli setup
