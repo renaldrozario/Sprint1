@@ -1,0 +1,10 @@
+{
+	"webcpu" :1
+	"webmemory" :4096
+	"webimage" :449cf0f5-2d42-4ec5-9e9c-c6c2ffd3ad74
+	"webhostname" :dev-webserver
+	"dbcpu" :1
+	"dbmemory" :1024
+	"dbimage" :449cf0f5-2d42-4ec5-9e9c-c6c2ffd3ad74
+	"dbhostname" :dev-dbserver
+}
